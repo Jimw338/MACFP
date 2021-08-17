@@ -1,7 +1,7 @@
 # MACFP: Maximal Approximate Consecutive Frequent Pattern Mining under Edit Distance
 ## Publication
 
-* Jingbo Shang, Jian Peng, and Jiawei Han, "**[MACFP: Maximal Approximate Consecutive Frequent Pattern Mining under Edit Distance](http://shang7.web.engr.illinois.edu/papers/MACFP.pdf)**", In Proceedings of 2016 SIAM International Conference on Data Mining (SDM 2016), 2016
+* Jingbo Shang, Jian Peng, and Jiawei Han, "**[MACFP: Maximal Approximate Consecutive Frequent Pattern Mining under Edit Distance](http://web.archive.org/web/20170505180836/http://shang7.web.engr.illinois.edu/papers/MACFP.pdf)**", In Proceedings of 2016 SIAM International Conference on Data Mining (SDM 2016), 2016
 
 ## Requirements
 
